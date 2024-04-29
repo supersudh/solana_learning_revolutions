@@ -4,6 +4,10 @@
 in this guide, you will learn how to create and deploy both the Solana program and UI for a basic on-chain CRUD dApp. This dApp will allow you to create journal entries, update journal entries, read journal entries, and delete journal entries all through on-chain transactions.
 # END [supersudh]
 
+# BEGIN [supersudh]
+TODO:// Learn Anchor
+# END [supersudh]
+
 This project is generated with the [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) generator.
 
 ## Getting Started
